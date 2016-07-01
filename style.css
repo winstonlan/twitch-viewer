@@ -1,0 +1,41 @@
+a {
+    color: white;
+}
+body {
+    background-color: #4A96AD;
+}
+#footer {
+    position: fixed;
+    bottom: 0;
+    right: 50%;
+
+}
+h1 {
+    color:#FFFFFF;
+}
+h2 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.label {
+    display: block;
+    border-radius: 0;
+}
+.list-group {
+    margin-bottom: 0px;
+}
+
+.list-group-item:last-child {
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+.list-group-item:first-child {
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
